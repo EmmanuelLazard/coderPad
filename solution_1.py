@@ -1,4 +1,4 @@
-def solution1(nums):
+def solution(nums):
     i = cpt = 0
     new = []
     l = len(nums)
